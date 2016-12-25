@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel><title>RSS Feed</title>
+    <link>http://strahlungsarmehandys.com</link>
+    <description>RSS Feed</description>
+    <lastBuildDate>Sun, 25 Dec 2016 22:09:10 </lastBuildDate>
+    <generator>Logya</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+    <item>
+        <title><![CDATA[Mobilfunkanbieter - Ausgewählte Anbieter von Mobilfunkverträgen und Handys]]></title>
+        <link><![CDATA[http://strahlungsarmehandys.com/mobilfunkanbieter/]]></link>
+        <description><![CDATA[Eine Auswahl von Mobilfunkanbietern in Deutschland, die Mobilfunkverträge und Handys zum Kauf anbieten.]]></description>
+        <guid><![CDATA[http://strahlungsarmehandys.com/mobilfunkanbieter/]]></guid>
+        <pubDate>Wed, 10 Feb 2016 00:35:38 </pubDate>
+    </item>
+    
+    <item>
+        <title><![CDATA[Über Strahlungsarme Handys]]></title>
+        <link><![CDATA[http://strahlungsarmehandys.com/info/]]></link>
+        <description><![CDATA[Informationen zur Website StrahlungsarmeHandys.com über Handys und Smartphones mit SAR-Werten von maximal 0,6 W/kg.]]></description>
+        <guid><![CDATA[http://strahlungsarmehandys.com/info/]]></guid>
+        <pubDate>Wed, 15 Aug 2012 22:00:22 </pubDate>
+    </item>
+    
+</channel></rss>

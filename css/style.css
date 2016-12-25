@@ -1,0 +1,23 @@
+body {
+position:relative;
+padding-top:60px;
+}
+.navbar-brand {
+background: url('../img/phone-small.png') no-repeat .8em .5em;
+padding-left: 3em;
+}
+.nav-tabs {
+font-size: 1.4em;
+}
+.tab-pane {
+font-size: 1.2em;
+padding: 1em 0 0 0em;
+}
+.topoffset {
+margin-top: .5em;
+}
+/* bootstrap overriders */
+.alert-info {
+    background-color: #f7fbff;
+    border-color: #c6dbef;
+}
